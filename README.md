@@ -1,0 +1,7 @@
+- 👋 Welcome to my profile!
+- 👀 I usually develop small applications for companies
+- 🖥️ Frontend and backend JS Developer
+- 🌱 My favorite and most used languages: JavaScript, TypeScript, Python
+- 📫 You can reach me out on Discord (SGeri#0685)
+- 👀 Im the Founder of Hungarian Rockstar Club and i also work as a developer
+- 🚧 Current Project(s): Discord Automatization (BOT development), Warehouse Controller
