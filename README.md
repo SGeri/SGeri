@@ -19,3 +19,6 @@ const SGeri = {
 [![SGeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgeri&hide=contribs,prs,issues&show_icons=true&theme=radical)](https://github.com/sgeri)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sgeri)](https://github.com/sgeri)
+
+| <a href="https://github.com/sgeri"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sgeri&hide=contribs,prs,issues&show_icons=true&theme=radical" alt="SGeri's GitHub stats" /></a> | <a href="https://github.com/sgeri"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgeri&show_icons=true&theme=radical)" alt="Top Languages"/></a> |
+| ------------- | ------------- |
