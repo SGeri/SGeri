@@ -1,7 +1,17 @@
-- 👋 Welcome to my profile!
-- 👀 I usually develop small applications for companies
-- 🖥️ Frontend and backend JS Developer
-- 🌱 My favorite and most used languages: JavaScript, TypeScript, Python
-- 📫 You can reach me out on Discord (SGeri#0685)
-- 👀 Im the Founder of Hungarian Rockstar Club and i also work as a developer
-- 🚧 Current Project(s): Discord Automatization (BOT development), Warehouse Controller
+```js
+
+const SGeri = {
+  greetings: "welcome to my profile 👋",
+  name: "Sárffy Gergő",
+  workplace: "Hungarian Rockstar Club",
+  activity: "develop business applications 👀",
+  in: "full stack in JavaScript & Python automatization",
+  currently: "learning Next.js & working on Nextine",
+  findMeHere: [
+    { discord: "SGeri#0731" },
+    { youtube: "www.youtube.com/c/SárffyGergő" },
+    { twitch: "www.twitch.tv/sgeri" }
+  ]
+};
+
+```
