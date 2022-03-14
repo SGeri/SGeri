@@ -16,4 +16,4 @@ const SGeri = {
 
 ```
 
-[![SGeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgeri&hide=contribs,prs,issues)](https://github.com/sgeri)
+[![SGeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgeri&hide=contribs,prs,issues&show_icons=true&theme=radical)](https://github.com/sgeri)
