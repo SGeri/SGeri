@@ -5,7 +5,7 @@ const SGeri = {
   name: "Sárffy Gergő",
   workplace: "Hungarian Rockstar Club",
   activity: "develop business applications 👀",
-  in: "full stack in JavaScript & Python automatization",
+  in: "fullstack in JavaScript & Python automatization",
   currently: "learning Next.js & working on Nextine",
   findMeHere: [
     { discord: "SGeri#0731" },
