@@ -6,7 +6,7 @@ const SGeri = {
   workplace: "Hungarian Rockstar Club",
   activity: "develop business applications 👀",
   in: "fullstack web and native in JavaScript & Python automatization",
-  currently: "working on a cross-platform mobile app & wordpress sites",
+  currently: "working on a cross-platform mobile app",
   findMeHere: [
     { discord: "SGeri#0731" },
     { youtube: "www.youtube.com/c/SárffyGergő" },
