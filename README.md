@@ -6,7 +6,7 @@ const SGeri = {
   workplace: "Huroc Solutions 🌐",
   activity: "working on WeddingManager 💞 application",
   in: "fullstack web and native in TypeScript & AWS Cloud ☁️",
-  currently: "also developing substitutions application for my school",
+  currently: "also developing other applications",
   findMeHere: [
     { discord: "SGeri#0731" },
     { youtube: "www.youtube.com/c/SárffyGergő" },
