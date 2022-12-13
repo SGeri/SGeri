@@ -3,10 +3,10 @@
 const SGeri = {
   greetings: "welcome to my profile 👋",
   name: "Sárffy Gergő",
-  workplace: "Huroc Solutions 🌐",
-  activity: "working on WeddingManager 💞 application",
+  workplace: "WeddingManager 💞",
+  activity: "doing some DevOps stuff related to work",
   in: "fullstack web and native in TypeScript & AWS Cloud ☁️",
-  currently: "also developing other applications",
+  currently: "learning Rust as a secondary language 💪",
   findMeHere: [
     { discord: "SGeri#0731" },
     { youtube: "www.youtube.com/c/SárffyGergő" },
