@@ -14,6 +14,8 @@ const SGeri = {
   ]
 };
 
+```
+
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
@@ -50,7 +52,6 @@ const SGeri = {
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/premiere.html" title="Adobe Premiere Pro"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-premiere_pro.svg" alt="Adobe Premiere Pro" width="21px" height="21px"></a>
 
-```
 
 | <a href="https://github.com/sgeri"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sgeri&count_private=true&hide=contribs,prs,issues&show_icons=true&theme=radical" alt="SGeri's GitHub stats" /></a> | <a href="https://github.com/sgeri"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgeri&theme=radical&layout=compact" alt="Top Languages"/></a> |
 | ------------- | ------------- |
