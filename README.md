@@ -4,7 +4,7 @@ const SGeri = {
   greetings: "welcome to my profile 👋",
   name: "Sárffy Gergő",
   workplace: "WeddingManager 💞",
-  activity: "doing some DevOps stuff related to work",
+  activity: "doing some DevOps stuff",
   in: "fullstack web and native in TypeScript & AWS Cloud ☁️",
   currently: "learning Rust as a secondary language 💪",
   findMeHere: [
